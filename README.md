@@ -18,6 +18,25 @@
         </nav>
     </header>
 
+
+
+
+<!-- Seção Projetos -->
+<section id="projetos">
+    <h2>Projetos</h2>
+    <div class="projeto">
+        <h3><a href="https://exemplo.com/projeto1">Projeto 1</a></h3>
+        <p>Descrição do projeto 1.</p>
+    </div>
+    <div class="projeto">
+        <h3><a href="https://exemplo.com/projeto2">Projeto 2</a></h3>
+        <p>Descrição do projeto 2.</p>
+    </div>
+    <!-- Adicione mais projetos conforme necessário -->
+</section>
+
+
+
     <!-- Seção Sobre -->
     <section id="sobre">
         <h2>Sobre Mim</h2>
@@ -39,13 +58,16 @@
     </section>
 
     <!-- Seção Contato -->
-    <section id="contato">
-        <h2>Contato</h2>
-        <p>Se você quiser entrar em contato comigo, envie um e-mail para: <a href="cristinakailaine699@gmail.com">cristinakailaine699@gmail.com</a></p>
-    </section>
+<section id="contato">
+    <h2>Contato</h2>
+    <p>Se você quiser entrar em contato comigo, envie um e-mail para: <a href="mailto:cristinakailaine699@gmail.com">cristinakailaine699@gmail.com</a></p>
+</section>
 
     <!-- Rodapé -->
     <footer>
         <p>&copy; 2024 Kailaine Cristina. Todos os direitos reservados.</p>
     </footer>
 </body>
+
+
+
