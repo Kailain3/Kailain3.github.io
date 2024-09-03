@@ -44,6 +44,7 @@
 
     <!-- Nova Seção Criação -->
     <section id="criacao">
+        <h3><a href="https://exemplo.com/projeto1" target="_blank">Criação 1</a></h3> <!-- Link externo -->
         <h2>Criação</h2>
         <div class="criação">
             <h3>Criações </h3>
