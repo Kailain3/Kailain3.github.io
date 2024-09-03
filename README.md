@@ -1,4 +1,4 @@
-[<html lang="pt-BR">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,7 +46,6 @@
 
     <!-- Rodapé -->
     <footer>
-        <p>&copy; 2024 Meu Nome. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Kailaine Cristina. Todos os direitos reservados.</p>
     </footer>
 </body>
-</html>
