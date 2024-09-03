@@ -1,6 +1,4 @@
-# Kailain3.github.io
-<!DOCTYPE html>
-<html lang="pt-BR">
+[<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,7 +21,7 @@
     <!-- Seção Sobre -->
     <section id="sobre">
         <h2>Sobre Mim</h2>
-        <p>Olá, meu nome é [Seu Nome] e eu sou um desenvolvedor web. Adoro criar soluções inovadoras e aprender novas tecnologias.</p>
+        <p>Olá, meu nome é Kailaine e eu sou um desenvolvedor web. Adoro criar soluções inovadoras e aprender novas tecnologias.</p>
     </section>
 
     <!-- Seção Projetos -->
@@ -43,7 +41,7 @@
     <!-- Seção Contato -->
     <section id="contato">
         <h2>Contato</h2>
-        <p>Se você quiser entrar em contato comigo, envie um e-mail para: <a href="mailto:seuemail@example.com">seuemail@example.com</a></p>
+        <p>Se você quiser entrar em contato comigo, envie um e-mail para: <a href="cristinakailaine699@gmail.com">cristinakailaine699@gmail.com</a></p>
     </section>
 
     <!-- Rodapé -->
