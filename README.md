@@ -1,14 +1,3 @@
-
-<section id="projetos">
-    <h2>Projetos</h2>
-    <div class="projeto">
-        <h3><a href="https://exemplo.com/projeto1">Projeto 1</a></h3>
-        <p>Descrição do projeto 1.</p>
-    </div>
-    <div class="projeto">
-        <h3><a href="https://exemplo.com/projeto2">Projeto 2</a></h3>
-        <p>Descrição do projeto 2.</p>
-
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -27,15 +16,6 @@
                 <li><a href="#criacao">Criação</a></li> <!-- Aba "Criação" -->
                 <li><a href="#contato">Contato</a></li>
                     <link rel="stylesheet" href="css/style.css">
-                <section id="projetos">
-    <h2>Projetos</h2>
-    <div class="projeto">
-        <h3><a href="https://exemplo.com/projeto1">Projeto 1</a></h3>
-        <p>Descrição do projeto 1.</p>
-    </div>
-    <div class="projeto">
-        <h3><a href="https://exemplo.com/projeto2">Projeto 2</a></h3>
-        <p>Descrição do projeto 2.</p>
 </ul>
         </nav>
     </header>
@@ -75,10 +55,11 @@
     <footer>
         <p>&copy; 2024 Kailaine Cristina. Todos os direitos reservados.</p>
     </footer>
-    
+
     <link rel="stylesheet" href="css/style.css">
 
 </body>
+</html>
 </html>
 
 
