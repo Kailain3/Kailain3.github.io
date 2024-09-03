@@ -1,6 +1,8 @@
+
+
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>       
-    <h1>Kailaine</h1>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Portfólio</title>
@@ -9,15 +11,17 @@
 <body>
     <!-- Cabeçalho da Página -->
     <header>
-        <nav>
-            <ul>
-                <li><a href="#sobre">Sobre</a></li>
-                <li><a href="#projetos">Projetos</a></li>
-                <li><a href="#criacao">Coleção de Criações</a></li> <!-- Aba "Criação" -->
-                <li><a href="#contato">Contato</a></li>
-                    <link rel="stylesheet" href="css/style.css">
-</ul>
-        </nav>
+        <div class="header-container">
+            <h1 class="logo">Portfólio Kailaine</h1> <!-- Ajuste do título -->
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#projetos">Projetos</a></li>
+                    <li><a href="#criacao">Coleção de Criações</a></li> <!-- Aba "Criação" -->
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
     <!-- Seção Sobre -->
@@ -30,11 +34,11 @@
     <section id="projetos">
         <h2>Projetos</h2>
         <div class="projeto">
-            <h3>Projeto 1</h3>
+            <h3><a href="https://exemplo.com/projeto1" target="_blank">Projeto 1</a></h3> <!-- Link externo -->
             <p>Descrição do projeto 1.</p>
         </div>
         <div class="projeto">
-            <h3>Projeto 2</h3>
+            <h3><a href="https://exemplo.com/projeto2" target="_blank">Projeto 2</a></h3> <!-- Link externo -->
             <p>Descrição do projeto 2.</p>
         </div>
     </section>
@@ -47,7 +51,6 @@
             <p>Descrição do projeto 1.</p>
         </div>
         <p>Aqui você pode adicionar informações sobre suas criações, novos projetos ou ideias.</p>
-        
     </section>
 
     <!-- Seção Contato -->
@@ -61,10 +64,5 @@
         <p>&copy; 2024 Kailaine Cristina. Todos os direitos reservados.</p>
     </footer>
 
-    <link rel="stylesheet" href="css/style.css">
-
 </body>
 </html>
-</html>
-
-
