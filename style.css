@@ -2,14 +2,14 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    color: #bfb48f;
+    color: #223836;
     margin: 0;
     padding: 0;
 }
 
 /* Cabeçalho */
 header {
-    background-color: #bfb48f;
+    background-color: #223836;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -47,7 +47,7 @@ section {
 
 /* Rodapé */
 footer {
-    background-color: #bfb48f;
+    background-color: #223836;
     color: #fff;
     text-align: center;
     padding: 10px 0;
