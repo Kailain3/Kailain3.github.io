@@ -1,14 +1,13 @@
-/* Estilo geral do corpo da página */
+/* Estilo geral */
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
     background-color: #f4f4f4;
     color: #333;
     margin: 0;
     padding: 0;
 }
 
-/* Estilo para o cabeçalho */
+/* Cabeçalho */
 header {
     background-color: #333;
     color: #fff;
@@ -16,7 +15,6 @@ header {
     text-align: center;
 }
 
-/* Estilo para o menu de navegação */
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -34,147 +32,26 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ff6347; /* Tom de laranja para hover */
+    color: #ff6347; /* Efeito hover */
 }
 
-/* Estilo para as seções */
+/* Seções */
 section {
     padding: 20px;
-    margin: 20px;
+    margin: 20px auto;
+    width: 80%;
     background-color: #fff;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Estilo para títulos das seções */
-h2 {
-    color: #333;
-}
-
-/* Estilo para os links dos projetos */
-.projeto h3 a {
-    color: #333;
-    text-decoration: none;
-}
-
-.projeto h3 a:hover {
-    color: #ff6347;
-}
-
-/* Estilo para o rodapé */
+/* Rodapé */
 footer {
     background-color: #333;
     color: #fff;
     text-align: center;
     padding: 10px 0;
-    position: fixed;
+    position: relative;
     bottom: 0;
     width: 100%;
 }
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
-body {
-    font-family: 'Roboto', sans-serif;
-}header{
-    background-image: url('sua-imagem.jpg');
-    background-size: cover;
-    background-position: center;
-}
-
-.btn {
-    background-color: #ff6347;
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    display: inline-block;
-    transition: background-color 0.3s;
-}
-
-.btn:hover {
-    background-color: #e5533d;
-}
-<a href="#contato" class="btn">Entrar em Contato</a>
-<link rel="stylesheet" href="style.css">
-
-
-/* Estilo geral do corpo da página */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f4;
-    color: #333;
-    margin: 0;
-    padding: 0;
-}
-
-/* Estilo para o cabeçalho */
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-}
-
-/* Estilo para o menu de navegação */
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-nav ul li a:hover {
-    color: #ff6347; /* Tom de laranja para hover */
-}
-
-/* Estilo para as seções */
-section {
-    padding: 20px;
-    margin: 20px;
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-/* Estilo para títulos das seções */
-h2 {
-    color: #333;
-}
-
-/* Estilo para os links dos projetos */
-.projeto h3 a {
-    color: #333;
-    text-decoration: none;
-}
-
-.projeto h3 a:hover {
-    color: #ff6347;
-}
-
-/* Estilo para o rodapé */
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-
-
-
-
-
-
