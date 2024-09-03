@@ -8,12 +8,11 @@
 <body>
     <!-- Cabeçalho da Página -->
     <header>
-        <h1>Kailaine</h1>
         <nav>
             <ul>
                 <li><a href="#sobre">Sobre</a></li>
                 <li><a href="#projetos">Projetos</a></li>
-                <li><a href="#criacao">Criação</a></li> <!-- Aba "Criação" -->
+                <li><a href="#criacao">Coleção de Criações</a></li> <!-- Aba "Criação" -->
                 <li><a href="#contato">Contato</a></li>
                     <link rel="stylesheet" href="css/style.css">
 </ul>
