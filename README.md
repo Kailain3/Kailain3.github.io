@@ -1,5 +1,6 @@
 <html lang="pt-BR">
-<head>
+<head>       
+    <h1>Kailaine</h1>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Portfólio</title>
@@ -41,7 +42,12 @@
     <!-- Nova Seção Criação -->
     <section id="criacao">
         <h2>Criação</h2>
+        <div class="criação">
+            <h3>Criações </h3>
+            <p>Descrição do projeto 1.</p>
+        </div>
         <p>Aqui você pode adicionar informações sobre suas criações, novos projetos ou ideias.</p>
+        
     </section>
 
     <!-- Seção Contato -->
