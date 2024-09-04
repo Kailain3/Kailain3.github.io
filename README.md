@@ -40,9 +40,9 @@
         </div>
     </section>
 
-    <!-- Nova Seção Criação -->
+    <!-- Nova Seção Seleção de Criações -->
     <section id="criacao">
-        <h2>Criação</h2>
+        <h2>Seleção de Criações</h2>
         <div class="Criações">
             <h3><a href="https://www.youtube.com/watch?v=nmMQEsia9vM&list=PLcUnjkFg2Ltx6MMwS64RmW0e3S4IVy9nn" target="_blank">Criação 1</a></h3> <!-- Link externo -->
             <p>Descrição da Criação 1: Esta criação eu guardo com bastante carinho, sempre tive muito amigos judeus, e mesmo sem ser judia participei bastante da cultura deles e das festas, Boris o menino sitado no album era irmão de uma amiga minha, em dias antes de seu aniversario decidimos fazer musicas engraçadas de "trapper" pois era uma data super importante já que o mesmo estava a fazer 13 anós ao qual no judaismo e data em que marcam a transição de crianças para a fase adulta. não sou uma pessoa do audio visual mas todos os meus amigos participam deste meio então foi muito divertido produzir isto e ter publicado e ainda hoje continuar absorvend tanto desta arte.</p>
