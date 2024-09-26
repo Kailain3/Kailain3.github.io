@@ -49,7 +49,8 @@
             <h3><a href="https://exemplo.com/projeto2" target="_blank">Criação 2</a></h3> <!-- Link externo -->
             <p>Esta criação e mais particular minha um hobbie que sempre gostei mas não podia praticar muito, sou facinada por ceramicas e nós ultimos meses quando sobra um tempo da rotina e das obrigações e nisso que tenho deixado minha energia, muitas vezes fazendo para mim ou para entregar as pessoas ao qual eu amo.</p>
         </div>
-        <p>Aqui você pode adicionar informações sobre suas criações, novos projetos ou ideias.</p>
+                <div class="criacao">
+ <p>Participar como voluntária no projeto Teto para Moradia em Curitiba foi uma experiência extremamente gratificante e transformadora. Contribuir para a construção de casas dignas para pessoas em situação de vulnerabilidade social me fez perceber o impacto real que ações solidárias podem ter na vida de tantas famílias. Esta "criação" foi muito importante para mim, pois me mostrou o poder do trabalho coletivo e como pequenas ações podem gerar grandes mudanças na vida de quem mais precisa.</p>
     </section>
     <!-- Seção Contato -->
     <section id="contato">
