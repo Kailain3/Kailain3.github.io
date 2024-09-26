@@ -56,11 +56,7 @@
     <section id="contato">
         <h2>Contato</h2>
         <p>Se você quiser entrar em contato comigo, envie um e-mail para: <a href="mailto:cristinakailaine699@gmail.com">cristinakailaine699@gmail.com</a></p>
-    </section>
     <!-- Rodapé -->
     <footer>
         <p>&copy; 2024 Kailaine Cristina. Todos os direitos reservados.</p>
     </footer>
-
-</body>
-</html>
