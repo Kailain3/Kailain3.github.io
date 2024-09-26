@@ -52,7 +52,6 @@
         <div class="criacao">
             <h3><a href="https://exemplo.com/projeto3" target="_blank">Criação 3</a></h3> <!-- Link externo -->
 <p>Participar como voluntária no projeto Teto para Moradia em Curitiba foi uma experiência extremamente gratificante e transformadora. Contribuir para a construção de casas dignas para pessoas em situação de vulnerabilidade social me fez perceber o impacto real que ações solidárias podem ter na vida de tantas famílias. Esta "criação" foi muito importante para mim, pois me mostrou o poder do trabalho coletivo e como pequenas ações podem gerar grandes mudanças na vida de quem mais precisa.<p>
-    </section>
     <!-- Seção Contato -->
     <section id="contato">
         <h2>Contato</h2>
